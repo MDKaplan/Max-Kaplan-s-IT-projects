@@ -2,6 +2,9 @@
 IT projects I have done so far. Includes coding in C++, python, using VMware, cloud creation, ect.
 
 
+
+
+
 ticketscreenshots - Cloud based IT Service Management System
   Deployed a cloud hosted ITSM ticketing platform on a Linux virtual machine using OCI. Installed and implemented a LAMP stack, configured database backend, enabled secure admin access through SSH.
 
